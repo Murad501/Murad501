@@ -10,9 +10,7 @@
 
 <table>
     <tr>
-        <th>My Blog</th>
-        <th>My Website</th>
-        <th>My CV</th>
+        <th>My Resume</th>
     </tr>
     <tr>
         <td>
