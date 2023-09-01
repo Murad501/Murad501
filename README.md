@@ -85,7 +85,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=Murad501&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad501&langs_count=10&layout=compact&hide=css,html,javascript,typescript,nosql"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad501&langs_count=10&layout=compact&hide=css,html,javascript"/>
         </td>
     </tr>
 </table>
