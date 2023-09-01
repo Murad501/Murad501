@@ -7,17 +7,7 @@
 
 <br/>
 
-
-<table>
-    <tr>
-        <th>My Resume</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="[https://colinbut.github.io/online-resume](https://drive.google.com/file/d/1dilmn-zQZPbbQpoorC__psSpr9r1TDMK/view)">📃</a>
-        </td>
-    </tr>
-</table>
+My Resume : <a href="https://drive.google.com/file/d/1dilmn-zQZPbbQpoorC__psSpr9r1TDMK/view">📃</a>
 
 
 
@@ -33,9 +23,7 @@
     <tr>
         <td>Backend</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/groovy/groovy-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -74,9 +62,6 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=Murad501&row=3&column=4&no-bg=true"/>
-        </td>
-        <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murad501"/>
         </td> 
     </tr>
@@ -84,8 +69,10 @@
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=Murad501&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
+    </tr>
+    <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad501&langs_count=10&layout=compact&hide=css,html,javascript"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad501&langs_count=100&layout=compact&hide=css,html"/>
         </td>
     </tr>
 </table>
