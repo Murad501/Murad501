@@ -25,7 +25,7 @@
 
 
 <a href="https://www.linkedin.com/in/murad5501/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://web.facebook.com/muradhossain501"><img src="https://www.vectorlogo.zone/logos/facebook/facebook" width="40" height="40"/></a>
+<a href="https://web.facebook.com/muradhossain501"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="40" height="40"/></a>
 
 ### Toolset
 
