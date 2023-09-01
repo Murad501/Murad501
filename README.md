@@ -6,15 +6,9 @@
 
 <br/>
 
-My Resume : <a href="https://drive.google.com/file/d/1dilmn-zQZPbbQpoorC__psSpr9r1TDMK/view">📃</a>
+### My Resume : <a href="https://drive.google.com/file/d/1dilmn-zQZPbbQpoorC__psSpr9r1TDMK/view">📃</a>
+<br/>
 
-
-
-### Contact me:
-
-
-<a href="https://www.linkedin.com/in/murad5501/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://web.facebook.com/muradhossain501"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="40" height="40"/></a>
 
 ### Toolset
 
@@ -71,7 +65,7 @@ My Resume : <a href="https://drive.google.com/file/d/1dilmn-zQZPbbQpoorC__psSpr9
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad501&langs_count=100&layout=compact&hide=css,html"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad501&langs_count=10&layout=compact&hide=css,html"/>
         </td>
     </tr>
 </table>
