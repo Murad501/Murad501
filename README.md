@@ -2,7 +2,6 @@
 
 ### MERN Stack Developer
 
-- 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__ 
 - 🌱 I’m currently learning: __SQL, NextJS, TypeScript
 
 <br/>
