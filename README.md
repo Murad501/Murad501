@@ -48,28 +48,6 @@
 <br/>
 
 
-<br />
-
-### My GitHub Stats
-
-<table>
-    <tr>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murad501"/>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Murad501&count_private=true&show_icons=true&theme=tokyonight"/>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad501&langs_count=10&layout=compact&hide=css,html"/>
-        </td>
-    </tr>
-</table>
-
 
 
 
