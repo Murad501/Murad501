@@ -9,8 +9,9 @@ Beyond development, I actively solve problems on Codeforces and CodeChef to enha
 
 ### Github Stats
 
-![Murad github stats](https://github-readme-stats.vercel.app/api?username=Murad501&count_private=true&theme=tokyonight&hide=contribs,prs)
-![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Murad501&layout=compact&theme=tokyonight&hide")
+![Murad github stats](https://github-readme-stats.vercel.app/api?username=Murad501&count_private=true&theme=tokyonight&hide=contribs,prs&width=500)  
+![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Murad501&layout=compact&theme=tokyonight&hide=html,css,scss&width=500)
+
 
 
 ## 💻 Frontend
