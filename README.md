@@ -31,14 +31,12 @@ Beyond development, I actively solve problems on Codeforces and CodeChef to enha
 
 
 
-## ⚡ Problem Solving  
+## ⚡ Problem Solving  Profile
 
 [![CodeForces Badge](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&labelColor=black&logo=codeforces&logoColor=white)](https://codeforces.com/profile/murad501)  
 [![CodeChef Badge](https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&labelColor=black&logo=codechef&logoColor=white)](https://www.codechef.com/users/murad501)  
 
-
-
-### 🛠 Problem Solving Languages  
+### 🛠 Problem Solving Language  
 
 [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white)](#)  
 
