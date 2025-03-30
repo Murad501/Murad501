@@ -1,5 +1,3 @@
-![Banner Image](https://i.ibb.co.com/hJv9rXV9/Black-Modern-Personal-Linked-In-Banner.png)
-
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+MERN+Developer;Problem+Solver" alt="Typing SVG" /> </p>
 
 
