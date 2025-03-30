@@ -30,6 +30,19 @@ Beyond development, I actively solve problems on Codeforces and CodeChef to enha
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)  
 
 
+
+## ⚡ Problem Solving  
+
+[![CodeForces Badge](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&labelColor=black&logo=codeforces&logoColor=white)](https://codeforces.com/profile/murad501)  
+[![CodeChef Badge](https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&labelColor=black&logo=codechef&logoColor=white)](https://www.codechef.com/users/murad501)  
+
+
+
+### 🛠 Problem Solving Languages  
+
+[![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white)](#)  
+
+
 :coffee: &emsp;Connect with me!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muradhossain501) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murad5501/)  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murad.hossain5501@gmail.com)
