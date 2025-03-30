@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+MERN+Developer;Problem+Solver" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+MERN+Developer;I'm+a+Problem+Solver" alt="Typing SVG" /> </p>
 
 
 ### Hi there my gorgeous friend👋
