@@ -7,12 +7,6 @@ I’m a MERN Developer skilled in ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, M
 Beyond development, I actively solve problems on Codeforces and CodeChef to enhance my logic and coding skills. Passion, dedication, confidence, and time management drive my success.
 
 
-### Github Stats
-
-![Murad github stats](https://github-readme-stats.vercel.app/api?username=Murad501&count_private=true&theme=tokyonight&hide=contribs,prs&width=500)  
-![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Murad501&layout=compact&theme=tokyonight&hide=html,css,scss&width=500)
-
-
 
 ## 💻 Frontend
 
@@ -42,23 +36,22 @@ Beyond development, I actively solve problems on Codeforces and CodeChef to enha
 [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white)](#)  
 
 
+<div>
+   <h1>Codeforces Stats Cards</h1>
+
+
+
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/badge?username=murad501&v1&theme=default)](https://codeforces.com/profile/murad501)<br>
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=murad501&theme=dark)](https://codeforces.com/profile/murad501)
+[![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=murad501&theme=default)](https://codeforces.com/profile/murad501)
+
+
+</div>
+
+
 :coffee: &emsp;Connect with me!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muradhossain501) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murad5501/)  [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murad.hossain5501@gmail.com)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Murad501) 
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-### Business
-
-:email: &emsp;murad.hossain5501@gmail.com
-
-
-### Profile Visits
-
-![visitors](https://views.gonzalohirsch.com/gh?user=Murad501)
