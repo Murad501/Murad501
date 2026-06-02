@@ -1,8 +1,8 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+MERN+Developer;I'm+a+Problem+Solver" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+Full Stack+Developer;I'm+a+Problem+Solver" alt="Typing SVG" /> </p>
 
 
 ### Hi there👋
-I’m a MERN Developer skilled in ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, and TypeScript. Passionate about learning and improving, I thrive on solving errors efficiently.
+I’m a Full Stack Developer skilled in ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, Mongoose, and TypeScript. Passionate about learning and improving, I thrive on solving errors efficiently.
 
 Beyond development, I actively solve problems on Codeforces and CodeChef to enhance my logic and coding skills. Passion, dedication, confidence, and time management drive my success.
 
