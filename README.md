@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="#">
-    <img src="https://i.ibb.co.com/ZZC578W/image.png" alt="Cover Banner" width="100%" standard-width="100%" />
-  </a>
-</p>
+
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+Full+Stack+Developer;I'm+a+Problem+Solver" alt="Typing SVG" /> </p>
 
 
